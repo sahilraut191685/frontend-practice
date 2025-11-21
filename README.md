@@ -1,24 +1,36 @@
-﻿
-# 🌐 Authentication UI – Login & Signup Pages
+# HTML & CSS Practice Repo
 
-A modern and responsive **Login & Signup UI** built using **HTML & CSS**.  
-This project contains two beautifully designed pages with a smooth gradient background, clean card layout, and a colorful bird logo.
+This repository contains my practice projects while learning **HTML** and **CSS**.  
+These pages are part of my frontend practice, including UI design, layout, and styling.
+
+## 🔗 Live Demo
+
+View my project here:
+
+👉 **Live Page:**  
+https://sahilraut191685.github.io/Simple-Login-page/login.html
+
+(This link will take you to my login page)
+
+## 📚 What’s inside?
+
+- HTML practice pages  
+- CSS styling experiments  
+- Login & Signup UI  
+- Navigation and layout practice  
+
+## 🎯 Purpose
+
+This repo is only for **learning HTML & CSS** and improving my frontend development skills.
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3
 
 ---
 
-## 🚀 Features
+✦ *More practice files will be added soon…*
 
-- Modern gradient background  
-- Clean card-style layout  
-- Colorful bird logo at the top  
-- Email & Password input fields  
-- Navigation between Login & Signup pages  
-- Fully responsive  
-- Simple & minimal UI design  
-
----
-
-## 📁 Project Structure
 
 
 
