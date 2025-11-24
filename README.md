@@ -5,10 +5,10 @@ These pages are part of my frontend practice, including UI design, layout, and s
 
 ## 🔗 Live Demo
 
-View my project here:
+View my project here(Note: There  will be more links to be  added in the future showing my work):
 
 👉 **Live Page:**  
-https://sahilraut191685.github.io/Simple-Login-page/login.html
+https://sahilraut191685.github.io/frontend-practice/login.html
 
 (This link will take you to my login page)
 
@@ -30,6 +30,7 @@ This repo is only for **learning HTML & CSS** and improving my frontend developm
 ---
 
 ✦ *More practice files will be added soon…*
+
 
 
 
